@@ -1,0 +1,106 @@
+body {
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.hangman-container {
+    text-align: center;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    max-width: 500px;
+}
+
+.hangman-container img {
+    display: block;
+    margin: 0 auto;
+    max-height: 200px;
+}
+
+.hangman-container p {
+    font-size: 24px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.hangman-container div {
+    margin-top: 10px;
+}
+
+.hangman-container div a,
+.hangman-container div span {
+    display: inline-block;
+    padding: 5px 10px;
+    margin: 5px;
+    font-size: 18px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.hangman-container div span {
+    background-color: #dddddd;
+    color: #000;
+    pointer-events: none;
+}
+
+.hangman-container div a:hover {
+    background-color: #0056b3;
+}
+
+.hangman-container button {
+    display: inline-block;
+    padding: 5px 10px;
+    font-size: 18px;
+    background-color: #dc3545;
+    color: #fff;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.hangman-container button:hover {
+    background-color: #c82333;
+}
+
+.win-message,
+.lose-message {
+    font-size: 24px;
+    font-weight: bold;
+    padding: 10px;
+    color: #fff;
+    border-radius: 5px;
+    margin-top: 20px;
+    text-transform: uppercase;
+}
+
+.win-message {
+    background-color: #28a745;
+}
+
+.lose-message {
+    background-color: #dc3545;
+}
+
+.chances {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.word-reveal {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+}
