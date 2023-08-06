@@ -28,7 +28,26 @@ Check out the Hangman game in action on YouTube:
 
 Have fun playing Hangman and see how many words you can guess correctly!
 
+## Contribution Guidelines
+
+If you wish to contribute to this project, please follow these guidelines:
+
+1. Fork the repository.
+2. Create a new branch: `git checkout -b feature/your-feature`
+3. Make your changes and commit them: `git commit -m "Add your message"`
+4. Push to the branch: `git push origin feature/your-feature`
+5. Create a pull request detailing your changes.
+
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MIT License](LICENSE.md).
 
+## Contact Information
+
+For any inquiries or feedback regarding the project, you can contact me at:
+
+- LinkedIn: [RITESHKUMAR KANDANE](https://www.linkedin.com/in/dkteriteshkumarkandane/)
+
+---
+
+Happy Gaming! 🎮
