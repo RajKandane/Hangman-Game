@@ -2,6 +2,13 @@
 
 This is a simple Hangman Game implemented in PHP. The player needs to guess the letters of a random word to save a hanging man from being completed. The player has a limited number of chances to guess the word, and they can also use a hint to reveal some letters in the word.
 
+## Hangman Game Demo
+
+Check out the Hangman game in action on YouTube:
+
+[![Hangman Game Demo](https://img.youtube.com/vi/Bjuzx5llKTQ/0.jpg)](https://youtu.be/Bjuzx5llKTQ)
+
+
 ## How to Play
 
 1. The game will choose a random word from a list of words.
