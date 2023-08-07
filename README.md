@@ -1,4 +1,5 @@
 # Hangman-Game
+AUG 2023 - AUG 2023
 
 This is a simple Hangman Game implemented in PHP. The player needs to guess the letters of a random word to save a hanging man from being completed. The player has a limited number of chances to guess the word, and they can also use a hint to reveal some letters in the word.
 
