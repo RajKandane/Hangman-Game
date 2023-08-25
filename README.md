@@ -5,9 +5,13 @@ This is a simple Hangman Game implemented in PHP. The player needs to guess the 
 
 ## Hangman Game Demo
 
-Check out the Hangman game in action on YouTube:
+<div align="center">
+  <p>Check out the Hangman game in action on YouTube:</p>
+  <a href="https://youtu.be/Bjuzx5llKTQ">
+    <img src="https://img.youtube.com/vi/Bjuzx5llKTQ/0.jpg" alt="Hangman Game Demo">
+  </a>
+</div>
 
-[![Hangman Game Demo](https://img.youtube.com/vi/Bjuzx5llKTQ/0.jpg)](https://youtu.be/Bjuzx5llKTQ)
 
 
 ## How to Play
